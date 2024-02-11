@@ -45,8 +45,35 @@ Material:
     - Check page 3 (_What is AI ethics?_) & page 18 (_Outcome fairness_)
 - [>>](https://blogs.microsoft.com/blog/2023/05/30/reflections-on-ai-and-the-future-of-human-flourishing/) Reflections on AI and the future of human flourishing
 
-Discussion:
+### Lecture 3
+Topics:
 
+1. Democracy & AI
+2. Human rights & AI
+3. CAIDP & the democratic value index report findings
+    - CAIPD = Centre of AI Digital Policy
+5. AI Index
+    - This is an independent initiative at the Stanford Institute for Human-Centered AI (HAI)
+6. Use of these guidelines to make ethical decisions related to AI
+
+Importance:
+
+- You need to be able to understand international ethical guidelines or a framework in relation to democracy and human rights
+- Understand & dissect CAIPD's democratic value index
+- Questions for week 4 test are directly from this lecture
+
+Material:
+
+- [>>](https://www.caidp.org/reports/aidv-2022/) "Artificial Intelligence and Democractic Values" by CAIPD <br> Parts to read:
+    - Preface - PDF page 5/1266
+    - Executive summary
+        - Recommendations - Report page 5, PDF page 51/1266
+    - The universal guidelines for AI (UGAI) - Report page 1154, PDF page 1200/1266
+    - The metrics (there are 12 metrics) - Report page 1129, PDF page 1175/1266
+    - Tiers (there are 5 tiers)
+
+## Discussion questions
+### Lecture 2
 1. What are the key findings of the human flourishing article?
 2. What key takeaways do you gain from the video from lecture 1 (interview with Geoffrey Hinton)?
 3. What are the key objectives of the AI Summit?
@@ -65,3 +92,21 @@ Discussion:
 16. What is the UK approach towards AI regulation?
 17. What were the main outcomes of the AI summit?
 18. What do you know about the organisation "AI for Good"?
+
+### Lecture 3
+1. Why will practitioners of AI with an understanding of the theoretical foundations of democracy and administrations find it easier to identify potential challenges and opportunities presented by AI?
+2. What is CAIPD? And why are they significant?
+3. What is the AI social contract index and what metrics does it consider when ranking countries in the index?
+    - **NOTE**: This is the index in the report "Artificial Intelligence and Democractic Values" (2022) by CAIPD
+4. The AI Index 2020 had several objectives, what are they?
+5. CAIDP deferred to well-established legal frameworks and well-known international organizations when assessing the countries, what were they? In other words what criterion did it look at when evaluating the different countries?
+6. What do you know about the Universal Declaration of Human Rights?
+7. In the democratic value index (CAIDP) what does that mean for a country to be in tier 5?
+8. What were the policy report recommendations of "Artificial Intelligence and Democratic Values" 2022?
+9. What is the AI Index report by HAI?
+10. What were the top 10 takeaways in this AI index report by HAI 2023?
+11. Based on your reading of "A guide for the responsible design and implementation of AI systems in the Public Sector" <br> Check page 3 (_What is AI ethics?_) & page 18 (_Outcome fairness_)
+    1. What is AI Ethics?
+    2. What are the potential harms caused by AI?
+    3. What is meant by an ethical platform for the responsible delivery of an AI project?
+    4. What is an ethical platform?
