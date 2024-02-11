@@ -99,13 +99,14 @@ Material:
 3. What is the AI social contract index and what metrics does it consider when ranking countries in the index?
     - **NOTE**: This is the index in the report "Artificial Intelligence and Democractic Values" (2022) by CAIPD
 4. The AI Index 2020 had several objectives, what are they?
-5. CAIDP deferred to well-established legal frameworks and well-known international organizations when assessing the countries, what were they? In other words what criterion did it look at when evaluating the different countries?
-6. What do you know about the Universal Declaration of Human Rights?
-7. In the democratic value index (CAIDP) what does that mean for a country to be in tier 5?
-8. What were the policy report recommendations of "Artificial Intelligence and Democratic Values" 2022?
-9. What is the AI Index report by HAI?
-10. What were the top 10 takeaways in this AI index report by HAI 2023?
-11. Based on your reading of "A guide for the responsible design and implementation of AI systems in the Public Sector" <br> Check page 3 (_What is AI ethics?_) & page 18 (_Outcome fairness_)
+    - **NOTE**: This is the index by Stanford's HAI
+6. CAIDP deferred to well-established legal frameworks and well-known international organizations when assessing the countries, what were they? In other words what criterion did it look at when evaluating the different countries?
+7. What do you know about the Universal Declaration of Human Rights?
+8. In the democratic value index (CAIDP) what does that mean for a country to be in tier 5?
+9. What were the policy report recommendations of "Artificial Intelligence and Democratic Values" 2022?
+10. What is the AI Index report by HAI?
+11. What were the top 10 takeaways in this AI index report by HAI 2023?
+12. Based on your reading of "A guide for the responsible design and implementation of AI systems in the Public Sector" <br> Check page 3 (_What is AI ethics?_) & page 18 (_Outcome fairness_)
     1. What is AI Ethics?
     2. What are the potential harms caused by AI?
     3. What is meant by an ethical platform for the responsible delivery of an AI project?
