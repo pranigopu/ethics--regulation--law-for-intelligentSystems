@@ -13,9 +13,9 @@ Topics:
 
 Material:
 
-- "Godfather of AI" Geoffrey Hinton warns of the "existential threat" [>>](https://www.youtube.com/watch?v=Y6Sgp7y178k)
-- Open letter to pause AI [>>](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
-- Outcome of the AI Summit discussed by the academic community [>>](https://www.ox.ac.uk/news/2023-11-03-expert-comment-oxford-ai-experts-comment-outcomes-uk-ai-safety-summit)
+- [>>](https://www.youtube.com/watch?v=Y6Sgp7y178k) "Godfather of AI" Geoffrey Hinton warns of the "existential threat"
+- [>>](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) Open letter to pause AI
+- [>>](https://www.ox.ac.uk/news/2023-11-03-expert-comment-oxford-ai-experts-comment-outcomes-uk-ai-safety-summit) Outcome of the AI Summit discussed by the academic community
 
 ### Lecture 2
 Topics:
@@ -40,10 +40,10 @@ Importance:
 
 Material:
 
-- European commission's ethical guidelines for trustworthy AI [>>](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai)
-- A guide for the responsible design and implementation of AI systems in the public sector [>>](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf)
+- [>>](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai) European commission's ethical guidelines for trustworthy AI
+- [>>](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf) A guide for the responsible design and implementation of AI systems in the public sector
     - Check page 3 (_What is AI ethics?_) & page 18 (_Outcome fairness_)
-- Reflections on AI and the future of human flourishing [>>](https://blogs.microsoft.com/blog/2023/05/30/reflections-on-ai-and-the-future-of-human-flourishing/)
+- [>>](https://blogs.microsoft.com/blog/2023/05/30/reflections-on-ai-and-the-future-of-human-flourishing/) Reflections on AI and the future of human flourishing
 
 Discussion:
 
