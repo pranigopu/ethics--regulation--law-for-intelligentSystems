@@ -41,7 +41,7 @@ Importance:
 Material:
 
 - [>>](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai) European commission's ethical guidelines for trustworthy AI
-- [>>](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf) A guide for the responsible design and implementation of AI systems in the public sector
+- [>>](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf) Alan Turing Institute: A guide for the responsible design and implementation of AI systems in the public sector
     - Check page 3 (_What is AI ethics?_) & page 18 (_Outcome fairness_)
 - [>>](https://blogs.microsoft.com/blog/2023/05/30/reflections-on-ai-and-the-future-of-human-flourishing/) Reflections on AI and the future of human flourishing
 
