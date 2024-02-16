@@ -71,6 +71,26 @@ Material:
     - The universal guidelines for AI (UGAI) - Report page 1154, PDF page 1200/1266
     - The metrics (there are 12 metrics) - Report page 1129, PDF page 1175/1266
     - Tiers (there are 5 tiers)
+ 
+## Lecture 4
+Topics:
+
+1. Fundamentals of human rights & civic rights
+2. Human rights and civic rights in the context of AI
+3. Why human rights considerations are ignored in the AI life cycle
+4. AI governance standards
+5. CAHAI framework for AI governance 
+6. Soft law approach in AI governance
+
+Importancee
+- Understanding of the role played by the Council of Europe in the area of AI safety. <br> _The Council of Europe has on many occasions demonstrated its ability to pioneer new standards, which have then become global benchmarks. Therefore as students in this module, you will learn about the CAI framework on the development, design, and application of artificial intelligence, based on the Council of Europe’s standards and that is conducive to innovation_
+- To be able to use these international standards in your own work and in areas where critical ethical dialogue is needed
+- There will be questions from this lecture for your week 8 in-class learning check test 
+
+Material:
+
+- [>>](https://rm.coe.int/cahai-2020-07-fin-en-report-ienca-vayena/16809eccac) Ad hoc committee on AI (CAHAI)
+- [>>](https://rm.coe.int/cahai-2021-09rev-elements/1680a6d90d) Legally binding framework
 
 ## Discussion questions
 ### Lecture 2
