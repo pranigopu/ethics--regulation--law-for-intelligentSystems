@@ -37,7 +37,7 @@ Furthermore, AI in governance has direct and indirect impact in
 - Politics and political shifts
 - Policing
 - Justice
-- Safeguarding of valuable systems and institutions, ex. democracy, republic system, etc.
+- Safeguarding of valuable systems and institutions (ex. democracy, republic system, etc.)
 
 ### EXPANSION: Impact of AI and new opportunities and challenges
 - Industrial usage
