@@ -5,11 +5,18 @@ _See_ [INFO.pdf](https://github.com/pranigopu/ethics-regulation-law--for--intell
 ## Framework for section A
 1. Ethics and law with respect to AI and technology
     1. Ethical issues
-    2. Relevance of module in practice
+        1. Explainability, transparency and accountability <br> [>>](https://www.sciencedirect.com/science/article/pii/S0950584923000514) | [>>](https://www.nature.com/articles/s41599-020-0501-9)
+        2. Training data quality (especially w.r.t. bias and discrimination) <br> [>>](https://www.tandfonline.com/doi/full/10.1080/17579961.2021.1977219)
+        3. Training data source (especially w.r.t. maintaining privacy)
+        4. Misuse of personal information via AI solutions
+        5. Integration of AI solutions to due process and objective law <br> [>>](https://www.sciencedirect.com/science/article/pii/S0040162523001877)
+            - Mass surveillance and preemptive arrests (ex. in terrorist prevention)
+            - Over-policing of targeted areas
+    3. Relevance of module in practice
     3 Relevance of ethical or regulatory frameworks in
-        - Ethical dialogue
-        - Work in field
-        - Implementing organisational changes
+        1. Ethical dialogue
+        2. Work in field
+        3. Implementing organisational changes
 3. Impact of AI and new opportunities and challenges
 4. Need for ethical considerations in development and deployment of AI
 
