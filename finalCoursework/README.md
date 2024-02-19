@@ -5,13 +5,18 @@ _See_ [INFO.pdf](https://github.com/pranigopu/ethics-regulation-law--for--intell
 ## Framework for section A
 1. Ethics and law with respect to AI and technology
     1. Ethical issues
-        1. Explainability, transparency and accountability <br> [>>](https://www.sciencedirect.com/science/article/pii/S0950584923000514) | [>>](https://www.nature.com/articles/s41599-020-0501-9)
-        2. Training data quality (especially w.r.t. bias and discrimination) <br> [>>](https://www.tandfonline.com/doi/full/10.1080/17579961.2021.1977219)
-        3. Training data source (especially w.r.t. maintaining privacy)
-        4. Misuse of personal information via AI solutions
-        5. Integration of AI solutions to due process and objective law <br> [>>](https://www.sciencedirect.com/science/article/pii/S0040162523001877)
-            - Mass surveillance and preemptive arrests (ex. in terrorist prevention)
-            - Over-policing of targeted areas
+        1. Explainability, transparency and accountability
+            - [Transparency and explainability of AI systems: From ethical guidelines to requirements](https://www.sciencedirect.com/science/article/pii/S0950584923000514)
+            - [Ethical principles in machine learning and artificial intelligence: cases from the field and possible ways forward](https://www.nature.com/articles/s41599-020-0501-9)
+        3. Training data quality (especially w.r.t. bias and discrimination)
+            - [A legal framework for AI training data—from first principles to the Artificial Intelligence Act](https://www.tandfonline.com/doi/full/10.1080/17579961.2021.1977219)
+        5. Training data source (especially w.r.t. maintaining privacy)
+        6. Misuse of personal information via AI solutions
+        7. Integration of AI solutions to due process and objective law
+            - [Exploring ethics and human rights in artificial intelligence – A Delphi study](https://www.sciencedirect.com/science/article/pii/S0040162523001877)
+            - Sub-topics
+                - Mass surveillance and preemptive arrests (ex. in terrorist prevention)
+                - Over-policing of targeted areas
     3. Relevance of module in practice
     3 Relevance of ethical or regulatory frameworks in
         1. Ethical dialogue
