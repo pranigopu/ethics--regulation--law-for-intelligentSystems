@@ -7,7 +7,7 @@ _See_ [INFO.pdf](https://github.com/pranigopu/ethics-regulation-law--for--intell
     1. Ethical issues
         1. Explainability, transparency and accountability
             - [Transparency and explainability of AI systems - From ethical guidelines to requirements](https://www.sciencedirect.com/science/article/pii/S0950584923000514)
-            - [Ethical principles in ML and AI: cases from the field and possible ways forward](https://www.nature.com/articles/s41599-020-0501-9)
+            - [Ethical principles in ML and AI - Cases from the field and possible ways forward](https://www.nature.com/articles/s41599-020-0501-9)
         3. Training data quality (especially w.r.t. bias and discrimination)
             - [A legal framework for AI training data - From first principles to the AI Act](https://www.tandfonline.com/doi/full/10.1080/17579961.2021.1977219)
         5. Training data source (especially w.r.t. maintaining privacy)
