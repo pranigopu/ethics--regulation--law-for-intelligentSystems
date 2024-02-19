@@ -25,6 +25,37 @@ _See_ [INFO.pdf](https://github.com/pranigopu/ethics-regulation-law--for--intell
 3. Impact of AI and new opportunities and challenges
 4. Need for ethical considerations in development and deployment of AI
 
+### EXPANSION: Relevance of ethical and regulatory frameworks
+- Existing frameworks can help guide ethical considerations
+- Knowing about existing frameworks, to the extent they are implemented, can inform decisions to ensure smooth development and deployment
+- Existing frameworks can help indicate areas of ethical deficiency in an organisation’s functioning and product
+
+Furthermore, AI in governance has direct and indirect impact in
+
+- Politics and political shifts
+- Policing
+- Justice
+- Safeguarding of valuable systems and institutions, ex. democracy, republic system, etc.
+
+### EXPANSION: Impact of AI and new opportunities and challenges
+- Industrial usage
+    - O: Efficiency + Efficacy
+    - C: Safety ⇒ Explainability + Transparency
+    - C: Upskilling human workforce
+- Research usage
+    - O: Content generation for research work
+    - O: Automated resource-gathering and interpretation
+    - O: Automated experimentation
+    - C: Validation of research methodology and results
+- Creative content usage
+    - O: Creative content generation
+
+### EXPANSION: Need for ethical considerations in development and deployment of AI
+We see above that AI does present actual ethical issues that, due to its impact–which is wide-ranging and significant in many areas–these ethical issues can have (and often do have) a large impact as well, on individual users as well as the society at large.
+
+Ethics is the study of the values by which humans must guide their choices; this includes not just the identification of the values but also of the means of achieving them, namely virtues and principles. There are various ethical frameworks, but all share the same basic goal: to guide the choices of humans on a fundamental level, i.e. in a long-range, big-picture view. Ethics is relevant because of two facts: (1) humans are goal-driven entities, i.e. they must, by their nature, pursue one or more goals, and (2) humans have volition, which means they have the ability to choose and not be merely driven by instinct or impulse. These two points mean that while humans must pursue goals to be what they are (the most basic goal being survival), the goals are not automatic, especially beyond the intrinsic, impulse-driven motives. What must humans choose, how and why–these are the questions ethics answers. As a result, ethics forms the bedrock of long-term human existence; without ethical principles, we would be reduced to an animalistic state of survival.
+
+AI is a field that has deep and wide-ranging impacts on (1) knowledge acquisition, (2) decision-making and (3) productivity. These are fundamental aspects of human life, especially long-range, and thus–due to this also being the domain of ethics–the impacts and potential of AI is an important consideration within the field of applied ethics.
 
 ---
 
