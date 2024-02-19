@@ -18,7 +18,7 @@ _See_ [INFO.pdf](https://github.com/pranigopu/ethics-regulation-law--for--intell
                 - Mass surveillance and preemptive arrests (ex. in terrorist prevention)
                 - Over-policing of targeted areas
     3. Relevance of module in practice
-    3 Relevance of ethical or regulatory frameworks in
+    4. Relevance of ethical or regulatory frameworks in
         1. Ethical dialogue
         2. Work in field
         3. Implementing organisational changes
