@@ -8,6 +8,9 @@ _See_ [INFO.pdf](https://github.com/pranigopu/ethics-regulation-law--for--intell
         1. Explainability, transparency and accountability
             - [Transparency and explainability of AI systems - From ethical guidelines to requirements](https://www.sciencedirect.com/science/article/pii/S0950584923000514)
             - [Ethical principles in ML and AI - Cases from the field and possible ways forward](https://www.nature.com/articles/s41599-020-0501-9)
+            - [Fair, Transparent, and Accountable Algorithmic Decision-making Processes](https://link.springer.com/content/pdf/10.1007/s13347-017-0279-x.pdf)
+            - _Explainability as a key requirement of AI systems that improves transparency_... <br> [Explainability as a non-functional requirement: challenges and recommendations](https://link.springer.com/article/10.1007/s00766-020-00333-1?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot)
+            - _Explanations of AI systems enforced trust and improved the decision making of users when using AI systems_... <br> [What’s up with Requirements Engineering for Artificial Intelligence Systems?](https://ieeexplore.ieee.org/document/9604729)
         3. Training data quality (especially w.r.t. bias and discrimination)
             - [A legal framework for AI training data - From first principles to the AI Act](https://www.tandfonline.com/doi/full/10.1080/17579961.2021.1977219)
         5. Training data source (especially w.r.t. maintaining privacy)
