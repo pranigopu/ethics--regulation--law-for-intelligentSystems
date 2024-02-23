@@ -92,6 +92,13 @@ Material:
 - [>>](https://rm.coe.int/cahai-2020-07-fin-en-report-ienca-vayena/16809eccac) Ad hoc committee on AI (CAHAI)
 - [>>](https://rm.coe.int/cahai-2021-09rev-elements/1680a6d90d) Legally binding framework
 
+## Lecture 5
+
+Material:
+
+- 
+[>>](https://rm.coe.int/unboxing-artificial-intelligence-10-steps-to-protect-human-rights-reco/1680946e64) Unboxing Artificial Intelligence: 10 steps to protect Human Rights
+
 ## Discussion questions
 ### Lecture 2
 1. What are the key findings of the human flourishing article?
