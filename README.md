@@ -96,8 +96,7 @@ Material:
 
 Material:
 
-- 
-[>>](https://rm.coe.int/unboxing-artificial-intelligence-10-steps-to-protect-human-rights-reco/1680946e64) Unboxing Artificial Intelligence: 10 steps to protect Human Rights
+- [>>](https://rm.coe.int/unboxing-artificial-intelligence-10-steps-to-protect-human-rights-reco/1680946e64) Unboxing Artificial Intelligence: 10 steps to protect Human Rights
 
 ## Discussion questions
 ### Lecture 2
