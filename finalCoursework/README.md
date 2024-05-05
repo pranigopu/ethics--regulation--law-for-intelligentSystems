@@ -63,10 +63,16 @@ Ethics is the study of the values by which humans must guide their choices; this
 AI is a field that has deep and wide-ranging impacts on (1) knowledge acquisition, (2) decision-making and (3) productivity. These are fundamental aspects of human life, especially long-range, and thus–due to this also being the domain of ethics–the impacts and potential of AI is an important consideration within the field of applied ethics.
 
 ## Section B resources
-
 - AI misuse/disasters case studies: https://www.cio.com/article/190888/5-famous-analytics-and-ai-disasters.html
 - iTutorGroup age-distrimination: https://www.eeoc.gov/newsroom/eeoc-sues-itutorgroup-age-discrimination
 - Amazon recruiting ML gender-discrimination: https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G/
+
+## Section C resources
+- https://www.frontiersin.org/articles/10.3389/frai.2022.879603/full
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7706019/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7099019/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6219763/
+- https://jolt.law.harvard.edu/digest/machine-vision-medical-ai-and-malpractice
 
 ---
 
