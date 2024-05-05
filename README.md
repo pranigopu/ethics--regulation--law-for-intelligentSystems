@@ -90,7 +90,7 @@ Importancee
 Material:
 
 - [>>](https://rm.coe.int/cahai-2020-07-fin-en-report-ienca-vayena/16809eccac) Ad hoc committee on AI (CAHAI)
-- [>>](https://rm.coe.int/cahai-2021-09rev-elements/1680a6d90d) Legally binding framework
+- [>>](https://rm.coe.int/cahai-2021-09rev-elements/1680a6d90d) Proposal for the elements of a legally binding framework
 
 ## Lecture 5
 
