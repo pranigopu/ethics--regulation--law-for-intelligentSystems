@@ -27,7 +27,7 @@ Topics:
     - Consequentialism
 2. Purpose of AI with respect to human flourishing theory
 4. Ethical frameworks specific to AI
-    - Fairness,accountability, transparency and ethics (FATE)
+    - Fairness, accountability, transparency and ethics (FATE)
     - European commission's ethical guidelines for trustworthy AI
 6. Application of ethical frameworks to AI systems & decision-making processes
 
