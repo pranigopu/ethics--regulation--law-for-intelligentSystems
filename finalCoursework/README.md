@@ -29,7 +29,7 @@ _See_ [INFO.pdf](https://github.com/pranigopu/ethics-regulation-law--for--intell
 4. Need for ethical considerations in development and deployment of AI
 
 ### EXPANSION: Relevance of ethical and regulatory frameworks
-- Existing frameworks (EF) can help guide ethical considerations
+- Existing ethical frameworks (EF) can help guide ethical considerations
 - Knowing about EFs can inform decisions to ensure smooth development and deployment \*
 - Existing frameworks can help indicate areas of ethical deficiency in an organisation’s functioning and product
 
