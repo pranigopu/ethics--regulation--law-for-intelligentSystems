@@ -65,6 +65,8 @@ AI is a field that has deep and wide-ranging impacts on (1) knowledge acquisitio
 ## Section B resources
 
 - AI misuse/disasters case studies: https://www.cio.com/article/190888/5-famous-analytics-and-ai-disasters.html
+- iTutorGroup age-distrimination: https://www.eeoc.gov/newsroom/eeoc-sues-itutorgroup-age-discrimination
+- Amazon recruiting ML gender-discrimination: https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G/
 
 ---
 
