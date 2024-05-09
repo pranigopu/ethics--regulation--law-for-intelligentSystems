@@ -2,7 +2,7 @@
  
 _See_ [INFO.pdf](https://github.com/pranigopu/ethics-regulation-law--for--intelligentSystems/blob/c3c4fae7a34b78b07236b8f63567eeba798597b7/finalCoursework/INFO.pdf) _for general coursework-related information._
 
-## Framework for section A
+## Section A proposed framework
 1. Ethics and law with respect to AI and technology
     1. Ethical issues
         1. Explainability, transparency and accountability
