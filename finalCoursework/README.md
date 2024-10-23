@@ -1,8 +1,8 @@
 # Final coursework
  
-_See_ [INFO.pdf](https://github.com/pranigopu/ethics-regulation-law--for--intelligentSystems/blob/c3c4fae7a34b78b07236b8f63567eeba798597b7/finalCoursework/INFO.pdf) _for general coursework-related information._
+_See_ [INFO.pdf](https://github.com/pranigopu/ethics--regulation--law-for-intelligentSystems/blob/main/finalCoursework/INFO.pdf) _for general coursework-related information._
 
-_See_ [SUBMISSION.pdf](https://github.com/pranigopu/ethics-regulation-law--for--intelligentSystems/blob/c3c4fae7a34b78b07236b8f63567eeba798597b7/finalCoursework/SUBMISSION.pdf) _for the completed case study._
+_See_ [SUBMISSION.pdf](https://github.com/pranigopu/ethics--regulation--law-for-intelligentSystems/blob/main/finalCoursework/SUBMISSION.pdf) _for the completed case study._
 
 ## Section A proposed framework
 1. Ethics and law with respect to AI and technology
